@@ -32,13 +32,13 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>ProxyServer</key>
-			<string>192.168.3.149</string>
+			<string>192.168.3.43</string>
 			<key>ProxyServerPort</key>
 			<integer>7890</integer>
 			<key>ProxyType</key>
 			<string>Manual</string>
 			<key>SSID_STR</key>
-			<string>Magical</string>
+			<string>HUAWEI-A1104M</string>
 		</dict>
 	</array>
 	<key>PayloadDisplayName</key>
